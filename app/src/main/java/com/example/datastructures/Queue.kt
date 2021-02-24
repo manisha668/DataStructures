@@ -6,6 +6,9 @@ package com.example.datastructures
 //when we have to arrange items : waiting list for tickets
 //peek
 
+//doubly queue : add or remove from either end
+//priority queue
+
 class Queue {
     private  var list = ArrayList<String>()
 
